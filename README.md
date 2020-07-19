@@ -1,5 +1,5 @@
 # links
-Some useful links 
+Some useful links:
 
 https://prace-ri.eu/
 https://training.prace-ri.eu/
