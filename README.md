@@ -15,3 +15,4 @@ Some useful links:
 * https://euraxess.ec.europa.eu/
 * https://www.cfd-online.com/
 * https://itmo.ru/ru/
+* https://www.hpc2n.umu.se/
